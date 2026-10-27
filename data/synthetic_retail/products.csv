@@ -1,0 +1,7 @@
+product_id,name,category,supplier_id,base_price
+P-100,Trail Running Shoes,Footwear,S-10,120.0
+P-200,Everyday Sneakers,Footwear,S-20,80.0
+P-300,Insulated Jacket,Apparel,S-10,150.0
+P-400,Cotton T-Shirt,Apparel,S-30,25.0
+P-500,Hiking Backpack,Accessories,S-20,95.0
+P-600,Stainless Bottle,Accessories,S-30,30.0
